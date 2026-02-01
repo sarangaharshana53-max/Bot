@@ -2780,14 +2780,11 @@ END:VCARD`
 *│⏳𝐔ptime :* ${hours}h ${minutes}m ${seconds}s
 *╰────────────◉◉➢*
 
-*╭─「 𝐌ain 𝐎ptions 」 ──◉◉➢*
- *◈ 📥 𝐃𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝐌𝙴𝙽𝚄*
- *◈ 🎨 𝐂𝚁𝙴𝙰𝚃𝙸𝚅𝙴 𝐌𝙴𝙽𝚄*
- *◈ 🛠️ 𝐓𝙾𝙾𝙻𝚂 𝐌𝙴𝙽𝚄*
- *◈ ⚙️ 𝐒𝙴𝚃𝚃𝙸𝙽𝙶𝚂 𝐌𝙴𝙽𝚄*
- *◈ 🥷 𝐎𝚆𝙽𝙴𝚁 𝐌𝙴𝙽𝚄*
-*╰────────────◉◉➢*
-
+<<<<<<<<<<<<¥>>>>>>>>>>>>>>
+*•🙃menu*
+*•👤owner*
+*°🙃settings*
+<<<<<<<<<<<<¥>>>>>>>>>>>>>>
 *CHATHUKA XMD*
 `.trim();
 
@@ -2799,7 +2796,7 @@ END:VCARD`
       { buttonId: `${config.PREFIX}owner`, buttonText: { displayText: "🥷 𝐎𝚆𝙽𝙴𝚁 𝐌𝙴𝙽𝚄" }, type: 1 }
     ];
 
-    const defaultImg = 'https://i.ibb.co/XrhXt1jK/tourl-1766509613542.jpg';
+    const defaultImg = 'https://files.catbox.moe/7iw7eb.jpg';
     const useLogo = userCfg.logo || defaultImg;
 
     // build image payload (url or buffer)
