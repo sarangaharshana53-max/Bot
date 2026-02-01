@@ -42,7 +42,7 @@ const config = {
   OTP_EXPIRY: 300000,
   WORK_TYPE: 'public',
   OWNER_NUMBER: process.env.OWNER_NUMBER || '94755389008',
-  CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbC2V7k3QxS4uRS8cB1P',
+  CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb5bfvkKrWQuEVXb8212',
   BOT_NAME: 'CHATHUKA XMD',
   BOT_VERSION: '1.0.0V',
   OWNER_NAME: 'CHATHUKA NETHSARA',
