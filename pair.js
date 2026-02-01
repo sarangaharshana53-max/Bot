@@ -36,7 +36,7 @@ const config = {
   AUTO_LIKE_EMOJI: ['☘️','💗','🫂','🙈','🍁','🙃','🧸','😘','🏴‍☠️','👀','❤️‍🔥'],
   PREFIX: '.',
   MAX_RETRIES: 3,
-  GROUP_INVITE_LINK: '',
+  GROUP_INVITE_LINK: 'https://chat.whatsapp.com/Lawz0jFZta3IFZ4aIGsrlY?mode=gi_t',
   RCD_IMAGE_PATH: 'https://files.catbox.moe/7iw7eb.jpg',
   NEWSLETTER_JID: '120363423304057342@newsletter',
   OTP_EXPIRY: 300000,
